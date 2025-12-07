@@ -1,5 +1,9 @@
 3party/reference/
 .env
+docs/docs_directory_from_old_version/
+
+docs/OLD_VERSION_README.md
+
 
 CMakeLists.txt.user
 CMakeCache.txt
@@ -42,7 +46,8 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
+docs/OLD_VERSION_README.md
+docs/docs_direct
 # Windows shortcuts
 *.lnk
 
